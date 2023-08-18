@@ -2,3 +2,5 @@ My Fruits:
 - Banana
 - Apple
 - Melon
+- Pineapple
+- Watermelon
