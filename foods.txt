@@ -8,3 +8,5 @@ My Foods:
 - Pecel
 - Rawon
 - Roti Bakar Opomaltin
+- Kebab
+- Sushi
